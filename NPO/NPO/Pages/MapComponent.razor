@@ -1,0 +1,24 @@
+﻿@page "/Map"
+@using Microsoft.JSInterop
+@using Radzen;
+@using Radzen.Blazor
+@inject IJSRuntime JSRuntime
+
+<div class="container-fluid">
+    <div class="row p-3">
+        <div class="col">
+                <RadzenGoogleMap  style="height: 400px" Options=@(new Dictionary<string, object> { { "disableDoubleClickZoom", true } })
+                             Zoom=@zoom Center=@(new GoogleMapPosition() { Lat = 52.0926781, Lng = 5.1628567 })>
+                <Markers>
+@*                    @foreach (var cam in Cameras)
+                    {
+                        <RadzenGoogleMapMarker Title="CameraName" Label="London" Position=@(new GoogleMapPosition() { Lat = Convert.ToDouble(cam.lat), Lng = Convert.ToDouble(cam.lon) }) />
+                    }*@
+              </Markers>
+            </RadzenGoogleMap>
+        </div>
+    </div>
+</div>
+
+
+

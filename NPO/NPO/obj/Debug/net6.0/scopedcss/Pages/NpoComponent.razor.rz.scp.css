@@ -1,0 +1,161 @@
+html[b-61q1ry7b13], body[b-61q1ry7b13] {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.8em;
+}
+
+a[b-61q1ry7b13] {
+    color: #ff6e00;
+}
+
+#source[b-61q1ry7b13] {
+    background: rgba(27, 31, 35, 0.08);
+    width: 290px;
+    padding: 8px;
+    border-radius: 20px;
+    margin: 15px auto;
+    text-align: center;
+}
+
+    #source a[b-61q1ry7b13] {
+        font-weight: bold;
+    }
+
+table td[b-61q1ry7b13] {
+    vertical-align: top;
+}
+
+table thead tr:nth-child(1) th[b-61q1ry7b13] {
+    height: 75px;
+    background-color: #272727;
+    color: #7F7F7C;
+    font-size: 3.0em;
+}
+
+table tr:nth-child(2) th[b-61q1ry7b13] {
+    text-align: left;
+    height: 25px;
+}
+
+h1[b-61q1ry7b13] {
+    padding: 20px 0 20px 55px;
+    margin: 0 0 0 20px;
+    background: url("video-camera-icon.png") no-repeat;
+    background-size: 40px;
+    background-position: 0 50%;
+}
+
+#cameraTableContainer[b-61q1ry7b13] {
+    margin: 0 0 20px 0;
+    width: 100%;
+    padding: 0 20px;
+    height: 100%;
+    vertical-align: top;
+}
+
+    #cameraTableContainer > td[b-61q1ry7b13] {
+        width: 25%;
+        text-align: center;
+    }
+
+    #cameraTableContainer table[b-61q1ry7b13] {
+        width: 450px;
+        margin: auto;
+        height: 100%;
+        border-collapse: collapse;
+    }
+
+        #cameraTableContainer table tbody tr[b-61q1ry7b13] {
+            height: 25px;
+            vertical-align: middle;
+        }
+
+        #cameraTableContainer table tbody td[b-61q1ry7b13] {
+            padding: 5px 0;
+        }
+
+        #cameraTableContainer table td:nth-child(1)[b-61q1ry7b13] {
+            height: 15px !important;
+            margin-right: 15px;
+            font-weight: bold;
+            border-radius: 20px;
+        }
+
+        #cameraTableContainer table tr:last-child td[b-61q1ry7b13] {
+            height: 100%;
+        }
+
+#map[b-61q1ry7b13] {
+    margin: auto;
+    height: 500px;
+    width: 100%;
+}
+
+#source a[b-61q1ry7b13] {
+    font-weight: bold;
+}
+
+table td[b-61q1ry7b13] {
+    vertical-align: top;
+}
+
+table thead tr:nth-child(1) th[b-61q1ry7b13] {
+    height: 75px;
+    background-color: #272727;
+    color: #7F7F7C;
+    font-size: 3.0em;
+}
+
+table tr:nth-child(2) th[b-61q1ry7b13] {
+    text-align: left;
+    height: 25px;
+}
+
+h1[b-61q1ry7b13] {
+    padding: 20px 0 20px 55px;
+    margin: 0 0 0 20px;
+    background: url("video-camera-icon.png") no-repeat;
+    background-size: 40px;
+    background-position: 0 50%;
+}
+
+#cameraTableContainer[b-61q1ry7b13] {
+    margin: 0 0 20px 0;
+    width: 100%;
+    padding: 0 20px;
+    height: 100%;
+    vertical-align: top;
+}
+
+    #cameraTableContainer > td[b-61q1ry7b13] {
+        width: 25%;
+        text-align: center;
+    }
+
+    #cameraTableContainer table[b-61q1ry7b13] {
+        width: 450px;
+        margin: auto;
+        height: 100%;
+        border-collapse: collapse;
+    }
+
+        #cameraTableContainer table tbody tr[b-61q1ry7b13] {
+            height: 25px;
+            vertical-align: middle;
+        }
+
+        #cameraTableContainer table tbody td[b-61q1ry7b13] {
+            padding: 5px 0;
+        }
+
+        #cameraTableContainer table td:nth-child(1)[b-61q1ry7b13] {
+            height: 15px !important;
+            margin-right: 15px;
+            font-weight: bold;
+            border-radius: 20px;
+        }
+
+        #cameraTableContainer table tr:last-child td[b-61q1ry7b13] {
+            height: 100%;
+        }

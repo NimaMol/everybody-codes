@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NPO.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NPO.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Esi\\Source\\Repos\\NimaMol\\everybody-codes\\NPO\\NPO\\wwwroot\\video-camera-icon.png",
+      "PackagePath": "staticwebassets\\video-camera-icon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NPO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NPO.props",
+      "PackagePath": "build\\NPO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NPO.props",
+      "PackagePath": "buildMultiTargeting\\NPO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NPO.props",
+      "PackagePath": "buildTransitive\\NPO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
